@@ -1,0 +1,14 @@
+#about-content {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    color: #315675;
+    font-weight: bold;
+    margin-bottom: 75px;
+}
+
+.about-logo {
+    display: block;
+    margin: 0 auto;
+}
